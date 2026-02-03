@@ -36,6 +36,8 @@ You output four integers: bolt, locatingpin, nut, washer
 You get 1 point if all four counts are exactly correct
 Otherwise, you get 0 for that image
 Your final score is the mean exact-match accuracy over all test images.
+
+
 🔧 Requirements
 Python: 3.8+
 Recommended:
